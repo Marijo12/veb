@@ -1,0 +1,66 @@
+* {
+    padding: 2%;
+    
+    
+}
+.cv{
+    background-color: rgba(245, 199, 101, 0.932);
+    height: 38cm;
+    width: 21cm ;
+    border: 2px solid;
+    border-radius: 7%;
+    margin-left: 4cm;
+    box-shadow: 17px 14px 35px -2px rgba(0,0,0,0.63);
+-webkit-box-shadow: 17px 14px 35px -2px rgba(0,0,0,0.63);
+-moz-box-shadow: 17px 14px 35px -2px rgba(0,0,0,0.63);
+}
+.slika{
+    height: 250px;
+    border-radius: 50%;
+    border: 1px solid;
+    box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+-webkit-box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+-moz-box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+}
+.podaci{
+   background-color: rgba(250, 230, 187, 0.932) ; 
+   height: 75mm;
+   width: 75mm;
+   border: 1px solid;
+   color: rgb(7, 7, 7);
+   border-radius: 5%;
+}
+.obrazovanje{
+    height: 250px;
+    width: 295px;
+    border: 1px solid;
+    background-color: rgb(205, 220, 221);
+    border-radius: 5%;
+    border-radius: 5%;
+   box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+-webkit-box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+-moz-box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+}
+.ostalo{
+    height: 250px;
+    width: 295px;
+    border: 1px solid;
+    background-color: rgba(205, 220, 221);
+    border-radius: 5%;
+    border-radius: 5%;
+   box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+-webkit-box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+-moz-box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+}
+.radno-iskustvo{
+    background-color: rgb(166, 139, 192);
+    height: auto;
+    width: auto;
+    border: 2px solid;
+    border-radius: 10%;
+    box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+-webkit-box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+-moz-box-shadow: 6px 4px 30px -3px rgba(0,0,0,0.77);
+}
+
+
